@@ -1,4 +1,4 @@
-# ArmorPaint---Compiled
+# ArmorPaint Compiled
 In this repository there is a compiled version of ArmorPaint app from https://github.com/armory3d/armorpaint<br>
 Everything is compiled in Visual Studio Community using Clang and it's good to go.
 
